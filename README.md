@@ -17,7 +17,8 @@
 [CVE-2025-60251](https://cve.org/CVERecord?id=CVE-2025-60251)
 
 ## Paper
-The research from this repo is incorporated into a paper that presents a systematic security assessment of the Unitree G1 .  
+The research from this repo is incorporated into a paper that presents a systematic security assessment of the Unitree G1. The reaserch impact is however NOT limited to just the G1, rather the entire Unitree product line from starting with the Go2 series. The code on newer Unitree bots appears to be a fork of the Go2 codebase, specifically making the Go1 lineage, and other pre-Go2 Unitree bots not vulnerable. All modern variants are however impacted at this time. Unitree has yet to release an advisory clarifying the *exact* impact across the product line. 
+
 Link to Paper: [https://arxiv.org/abs/2509.14139](https://arxiv.org/abs/2509.14139)  
 Title: *Cybersecurity AI: Humanoid Robots as Attack Vectors*  
 Authors: *Víctor Mayoral-Vilches, Andreas Makris, Kevin Finisterre*  
