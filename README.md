@@ -22,7 +22,7 @@ Link to Paper: [https://arxiv.org/abs/2509.14139](https://arxiv.org/abs/2509.141
 Title: *Cybersecurity AI: Humanoid Robots as Attack Vectors*  
 Authors: *Víctor Mayoral-Vilches, Andreas Makris, Kevin Finisterre*  
 
-```
+```bibtex
 @misc{mayoralvilches2025cybersecurityaihumanoidrobots,
       title={Cybersecurity AI: Humanoid Robots as Attack Vectors}, 
       author={Víctor Mayoral-Vilches and Andreas Makris and Kevin Finisterre},
